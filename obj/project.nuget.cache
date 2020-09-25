@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbOxedyGbTy2l5rhIdm4rKJhYgnYsghedQ2Ghiicq0hOIu2j5ww0OxmlK8jXp60R+CQVclGNq0TDJRxaM3MHeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius\\Desktop\\SENAC-RS\\projetos\\Asp.netComBanco\\Asp.netComBanco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vinicius\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
